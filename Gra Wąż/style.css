@@ -1,0 +1,19 @@
+body {
+  background-color: #419c17;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
+
+canvas {
+  background-color: hsl(224, 100%, 28%);
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #444;
+}
+
+#score {
+  margin-top: 15px;
+  font-size: 20px;
+}
